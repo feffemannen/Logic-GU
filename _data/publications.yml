@@ -1,4 +1,19 @@
 - authors:
+  - first_name: Daichi
+    id: 1227304
+    last_name: Hayashi
+    year_of_birth: null
+  - first_name: Graham E.
+    id: 269050
+    last_name: Leigh
+    year_of_birth: 1983
+  id: 340593
+  pubyear: 2024
+  sourceissue: null
+  sourcetitle: Lecture Notes in Computer Science
+  sourcevolume: null
+  title: "A Compositional Theory of\_Krivine\u2019s Classical Realisability"
+- authors:
   - first_name: Graham E.
     id: 269050
     last_name: Leigh
@@ -10,7 +25,7 @@
   id: 339778
   pubyear: 2024
   sourceissue: '10'
-  sourcetitle: ANNALS OF PURE AND APPLIED LOGIC
+  sourcetitle: Annals of Pure and Applied Logic
   sourcevolume: '175'
   title: 'From GTC to RESET : Generating reset proof systems from cyclic proof systems'
 - authors:
